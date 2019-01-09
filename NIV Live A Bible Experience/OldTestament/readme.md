@@ -1,4 +1,4 @@
-### [v0.0.31](https://github.com/littleflute/bible1/edit/master/NIV%20Live%20A%20Bible%20Experience/OldTestament/readme.md)
+### [v0.0.32](https://github.com/littleflute/bible1/edit/master/NIV%20Live%20A%20Bible%20Experience/OldTestament/readme.md) [..](..) [me](https://littleflute.github.io/bible1/NIV%20Live%20A%20Bible%20Experience/OldTestament/)
 ### [cd01_Genesis 1-17](cd01)
 ### [cd02_Genesis 18-29](cd02)
 ### [cd03_Genesis 30-41](cd03)
