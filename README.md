@@ -1,4 +1,4 @@
-### [v0.0.5](https://github.com/littleflute/bible1/edit/master/README.md)
+### [v0.0.11](https://github.com/littleflute/bible1/edit/master/README.md) [me](https://littleflute.github.io/bible1/)
 ### [NIV Live A Bible Experience/OldTestament](NIV Live A Bible Experience/OldTestament)  [899M]
 
 ### [https://littleflute.github.io/bible](https://littleflute.github.io/bible)
